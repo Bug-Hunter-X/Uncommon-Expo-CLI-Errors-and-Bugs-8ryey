@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI and you encounter issues related to unexpected behavior, crashes, or build failures that aren't readily explained by standard documentation or troubleshooting steps.  This often involves obscure interactions between Expo modules, native dependencies, or third-party libraries.
